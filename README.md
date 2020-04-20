@@ -21,3 +21,7 @@ Build time: Mon Apr 6 12:52:37 2020 (1586177557)
 Build timestamp: 1586177557
 Build timestamp as int: 1586177557
 ```
+
+## Discussed on
+* [stackoverflow](https://stackoverflow.com/questions/60864626/cannot-fetch-eigen-with-bazel-406-not-acceptable)
+* [bazel-discuss](https://groups.google.com/forum/#!searchin/bazel-discuss/406%7Csort:date/bazel-discuss/9_ZqijN3OV4/Re3roXXPAQAJ)
